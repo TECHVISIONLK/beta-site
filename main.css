@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #0000;
+}
+
+table, td, th {
+	border-style: double;
+	border-color: green;
+	background-size: 1px;
+}
+
+ul {
+	list-style: square inside url("./external-gif-crowdfunding-flaticons-lineal-color-flat-icons (Custom).png");
+}
+
+.text {
+	color: red;
+}
